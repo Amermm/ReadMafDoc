@@ -1,0 +1,131 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement (the “Agreement”) is made on the Date (defined in the Agreement Particulars) by and between:
+
+Majid Al Futtaim Management Services LLC, a company incorporated and existing in accordance with the federal laws of the UAE, and having its address at P.O. Box 91100, Dubai, United Arab Emirates (“MAF”); and 
+
+The Company (defined in the Agreement Particulars). 
+
+MAF and the Company shall be jointly referred to as the “Parties” and individually as “Party”.
+
+WHEREAS	
+
+The Parties agreed to grant each other access to each other’s Confidential Information (as defined below) in accordance with the terms and conditions of this Agreement; and
+In consideration of the mutual promises and covenants contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree to enter into this Agreement. 
+
+THE PARTIES AGREE AS FOLLOWS: 
+ 
+Agreement Particulars 
+
+Company
+Pepsi for Drink
+Date of the Agreement
+Insert date of the Agreement
+Opportunity 
+Describe the nature of the opportunity in reasonable detail – for example:
+
+Acquisition of xyz company or Acquisition of xyz business in county X.
+
+Purpose
+Describe the purpose of the exchange of information in reasonable detail – examples which you could choose from are:  
+
+Evaluation, approval and negotiation of the Opportunity 
+Exploring the feasibility of the Opportunity 
+Collaborating to define a detailed scope in respect of the Opportunity 
+Special Terms
+[Insert None if there are no additional/special terms]
+
+Confidential Information
+
+“Confidential Information” means all non-public information, of any nature and in any form, whether written or oral, lawfully disclosed or provided by either Party, its Affiliates, or their Representatives (the “Disclosing Party”) to the other Party (the “Receiving Party”) relating to the Opportunity including information relating to the business operations or proposed business, product specifications, pricing, technology, prospects, plans, designs, financial data, competitors, customers’, vendors' and suppliers' identities or affairs or any of the Parties. “Confidential information” also includes this Agreement, as well as the details of any negotiations between the Parties relating to the Purpose. For purposes of this Agreement, “Affiliate” with respect to a Party means an entity that Controls, Controlled, or under common Control with such Party. “Control” including the terms Controls and Controlled, with respect to the relationship between two or more persons, means the direct possession by equity ownership, or the power to direct the management or policies of the specified person. “Representatives” mean employees, contractor employees, subcontractor employees, consultants, advisors and other persons or individuals working for, on behalf of and/or at the request of a Party.  
+
+Confidential Information shall not be proprietary and the Receiving Party shall have no obligation with respect to such information where the information is:
+publicly available or otherwise in the public domain prior to disclosure by the Disclosing Party; 
+rightfully obtained by the Receiving Party from any third party without restriction and without breach of any confidentiality obligation including this Agreement; 
+developed by the Receiving Party independent of any disclosure hereunder or breach of this Agreement, as evidenced by written records; 
+revealed to a third party after the Disclosing Party approves such disclosure in writing; or
+required to be disclosed to any official body under any applicable law, in which case the Receiving Party will, to the extent lawfully permitted, immediately notify the Disclosing Party of such proceedings or action in writing and will take all available steps or resist or avoid such disclosure (including all steps that may be reasonably requested by the Disclosing Party) and will keep the Disclosing Party fully and promptly informed of all matters and developments relating thereto. If the Receiving Party is obliged to disclose Confidential Information to any third party, then it will disclose only the minimum amount of information consistent with satisfying such obligation of disclosure.  Furthermore, if permitted by law, then the Receiving Party will give prior written notice of the information it proposes to disclose, the notice containing a copy of the proposed disclosure and confirmation that its legal advisers' written opinion is that such disclosure is required by law, and will give the Disclosing Party an opportunity to discuss the relevant notice prior to any disclosure. 
+
+Confidentiality
+The Receiving Party shall maintain all Confidential Information in complete confidence and, save as provided in this Agreement, the Receiving Party agrees that it (i) will use the Confidential Information solely for fulfilling the Purpose; and (ii) shall not use, disseminate, or in any way circulate or disclose, in whole or in part, in any manner to any third party, Confidential Information pertaining to the Disclosing Party without the prior written consent of the Disclosing Party. 
+Confidential Information disclosed to the Receiving Party shall not be copied by the Receiving Party without the prior written consent of the Disclosing Party, except for such copies as the Receiving Party may reasonably require to fulfill the Purpose.
+Access to and use of Confidential information shall be restricted to the Receiving Party’s Representatives with a need to use the information to fulfill the Purpose, provided that such Representatives are bound by a confidentiality agreement no less restrictive than this Agreement. Each Party is responsible for any breach by its Representatives of its obligations with respect to Confidential Information.
+The Receiving Party agrees to take all steps reasonably necessary to protect the secrecy of the Confidential Information, and to prevent the unauthorised use, disclosure, reproduction, or publication of the Confidential Information.
+Either Party must immediately notify the other Party if it becomes aware of a suspected or actual unauthorised use or disclosure of whatsoever nature of Confidential Information.
+
+Return of Confidential Information 
+At any time upon the Disclosing Party's written request, the Receiving Party shall (a) return or destroy all Confidential Information in its possession and all copies (including any material containing Confidential Information to the extent that it contains Confidential Information); and (b) expunge, to the extent technically possible, all Confidential Information from any computer or other similar device into which it was entered, by it or on its behalf. Where requested by the Disclosing Party, the Receiving Party shall certify in writing as to the actions taken pursuant to (a), and (b) of this clause. 
+The undertakings to destroy or return the Confidential Information shall not apply to data which the Receiving Party (or its Representatives) must retain under any applicable law, rule or regulation, including the rules of a professional body in the case of professional advisers.
+
+Forced Disclosure
+The Receiving Party may disclose Confidential Information if required by applicable law , regulation, or rule, or by any court, tribunal, authority or regulatory body; provided that the Receiving Party shall, to the extent legally permitted and as advised by legal counsel, provide the Disclosing Party with prompt notice prior to any disclosure so that the Disclosing Party may seek other legal remedies to maintain the confidentiality of such Confidential Information, and the Receiving Party shall, to the extent legally permitted and as advised by legal counsel, cooperate with the Disclosing Party in doing so, at the Disclosing Party’s expense.
+
+Breach and Remedy
+The Parties acknowledge that breach of this Agreement or use of Confidential Information may cause irreparable harm and significant injury for which money damages will be inadequate and/or difficult to ascertain. Each Party shall therefore be entitled to seek injunctive and other equitable relief. 
+The Receiving Party undertakes to indemnify the Disclosing Party from and against any and all claims, suits, demands, actions, judgements, awards, liabilities, damages, costs and expenses (including without limitation reasonable professional and legal fees) directly suffered by the Disclosing Party due to the Receiving Party’s unauthorised disclosure of Confidential Information.  
+Notwithstanding anything to the contrary, neither Party shall be liable under this Agreement to the other Party for the following classes of damages resulting from or arising out of this Agreement, howsoever these losses may be caused: (i) indirect or consequential loss, including: (a) loss of prospective economic advantage or benefit, and (b) loss of business opportunity; (ii) punitive, special or exemplary damages; and (iii) lost profits.
+
+Intellectual Property Rights
+Each of the Parties reserves all copyright, patent, trademark, service mark, trade secret, trade dress rights, and all other intellectual property rights (whether or not capable of registration) in relation to its Confidential Information. 
+Each Party is the sole owner of its Confidential Information. Nothing in this Agreement shall be deemed to give the Receiving Party any right, title or interest whatever in or to the Confidential Information of the Disclosing Party. 
+
+
+
+
+Term
+The obligations in this Agreement shall continue to apply to Confidential Information until the sooner of two years after the exchange of latest Confidential Information or until superseded by a subsequent agreement between the Parties relating to the confidential treatment of the Confidential Information. 
+
+No obligation
+Nothing in this Agreement shall be considered as giving rise to an obligation to: (a) enter into any arrangement or agreement as a consequence of the Confidential Information being made available on the terms of this Agreement, in connection with the Purpose, or to express an intention to do so; or (b) include terms that are the same as or similar to the terms of this Agreement in any agreement entered into in connection with the Opportunity. Unless and until the parties or their respective affiliates enter into binding legal agreement (in which case the terms of those agreements will prevail), each Party will remain at liberty to give effect to or to decline to give effect to all or any part of the Opportunity at its sole discretion.
+
+Governing Law and Dispute Resolution
+This Agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the laws of the Emirate of Dubai and the federal laws of the United Arab Emirates, as applicable in the Emirate of Dubai.
+Any dispute arising out of or in connection with this Agreement, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration under the Dubai International Arbitration Centre Rules (the Rules), which Rules are deemed to be incorporated by reference into this clause. The dispute shall be resolved by a single arbitrator. The seat of arbitration shall be Dubai. The language to be used in the arbitral proceedings shall be English. Notwithstanding the foregoing, either Party may seek injunctive relief in any court of competent jurisdiction against the improper use or disclosure of Confidential Information.  
+
+General Terms 
+Amendments (if any) to the Agreement are set out in the Special Terms in the Agreement Particulars. 
+Any notice to be given by the Parties for the purposes of this Agreement shall be validly given if delivered to the addresses above, posted to that address by registered mail.  Any notice sent by post shall be deemed to be received seven days after the date of posting.  
+No failure or delay by a Party to exercise any right or remedy provided under this Agreement or by law shall constitute a waiver of that or any other right or remedy, nor shall it prevent or restrict the further exercise of that or any other right or remedy. No single or partial exercise of such right or remedy shall prevent or restrict the further exercise of that or any other right or remedy.
+Any provision of this Agreement which is held by a court of competent jurisdiction to be illegal, invalid, or unenforceable shall not affect the validity of any other provision, and this Agreement shall be deemed to be amended as necessary to delete such illegal, invalid, or unenforceable provision. 
+This Agreement may be executed in any number of counterparts, each of which when executed and delivered shall constitute a duplicate original, but all the counterparts shall together constitute the one agreement.
+
+
+This Agreement has been executed by the Parties authorized representatives as of the date set above forth. 
+
+
+For and on behalf of 
+Majid Al Futtaim Management Services LLC
+
+           For and on behalf of 
+           Pepsi name 2
+
+
+____________________________________
+Signature
+
+____________________________________
+Name
+
+____________________________________
+Title
+
+____________________________________
+Signature
+
+____________________________________
+Name
+
+____________________________________
+Title
+
+
+
+____________________________________
+Signature
+
+____________________________________
+Name
+
+____________________________________
+Title
+
