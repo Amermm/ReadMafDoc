@@ -519,6 +519,6 @@
       </sap:WorkflowViewStateService.ViewState>
     </ui:IfElseIf>
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="685,141" sap2010:WorkflowViewState.IdRef="LogMessage_2" Message="[out_TradeLicense]" />
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="685,141" sap2010:WorkflowViewState.IdRef="LogMessage_13" Level="[UiPath.Core.Activities.LogLevel.Warn]" Message="[&quot;TradeLicense Extraction Process Ended&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="685,141" sap2010:WorkflowViewState.IdRef="LogMessage_13" Level="[UiPath.Core.Activities.LogLevel.Warn]" Message="[&quot;TradeLicense Extraction Process  Ended&quot;]" />
   </Sequence>
 </Activity>
