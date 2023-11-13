@@ -9,7 +9,7 @@
   <VisualBasic.Settings>
     <x:Null />
   </VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1202,7485</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1202,7123</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -111,7 +111,7 @@
       <AssemblyReference>UiPath.Platform</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="TradeLicense Extraction" sap:VirtualizedContainerService.HintSize="747,7420" sap2010:WorkflowViewState.IdRef="Sequence_5">
+  <Sequence DisplayName="TradeLicense Extraction" sap:VirtualizedContainerService.HintSize="747,7058" sap2010:WorkflowViewState.IdRef="Sequence_5">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="str_ExtractedText" />
       <Variable x:TypeArguments="s:String[]" Name="TextSegments" />
@@ -520,7 +520,5 @@
     </ui:IfElseIf>
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="685,141" sap2010:WorkflowViewState.IdRef="LogMessage_2" Message="[out_TradeLicense]" />
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="685,141" sap2010:WorkflowViewState.IdRef="LogMessage_13" Level="[UiPath.Core.Activities.LogLevel.Warn]" Message="[&quot;TradeLicense Extraction Process  Ended&quot;]" />
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="685,141" sap2010:WorkflowViewState.IdRef="LogMessage_15" Level="[UiPath.Core.Activities.LogLevel.Warn]" Message="[&quot;TradeLicense Extraction Process  Ended&quot;]" />
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="685,141" sap2010:WorkflowViewState.IdRef="LogMessage_16" Level="[UiPath.Core.Activities.LogLevel.Warn]" Message="[&quot;TradeLicense Extraction Process  Ended&quot;]" />
   </Sequence>
 </Activity>
