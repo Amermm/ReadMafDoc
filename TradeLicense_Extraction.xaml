@@ -9,7 +9,7 @@
   <VisualBasic.Settings>
     <x:Null />
   </VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1202,6942</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1202,7123</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -111,7 +111,7 @@
       <AssemblyReference>UiPath.Platform</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="TradeLicense Extraction" sap:VirtualizedContainerService.HintSize="998,6877" sap2010:WorkflowViewState.IdRef="Sequence_5">
+  <Sequence DisplayName="TradeLicense Extraction" sap:VirtualizedContainerService.HintSize="747,7058" sap2010:WorkflowViewState.IdRef="Sequence_5">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="str_ExtractedText" />
       <Variable x:TypeArguments="s:String[]" Name="TextSegments" />
@@ -124,8 +124,8 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="936,141" sap2010:WorkflowViewState.IdRef="LogMessage_12" Message="[&quot;TradeLicense Extraction Process started&quot;]" />
-    <If Condition="[in_TestingValues=True]" DisplayName="Testing Values Status" sap:VirtualizedContainerService.HintSize="936,646" sap2010:WorkflowViewState.IdRef="If_1">
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="685,141" sap2010:WorkflowViewState.IdRef="LogMessage_12" Level="[UiPath.Core.Activities.LogLevel.Warn]" Message="[&quot;TradeLicense Extraction Process started&quot;]" />
+    <If Condition="[in_TestingValues=True]" DisplayName="Testing Values Status" sap:VirtualizedContainerService.HintSize="685,646" sap2010:WorkflowViewState.IdRef="If_1">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -170,14 +170,14 @@
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-          <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,141" sap2010:WorkflowViewState.IdRef="LogMessage_3" Message="[&quot;Testing Mode is Off&quot;]" />
+          <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,141" sap2010:WorkflowViewState.IdRef="LogMessage_3" Message="[&quot;Testing Mode is    Off&quot;]" />
         </Sequence>
       </If.Else>
     </If>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="936,141" sap2010:WorkflowViewState.IdRef="LogMessage_10" Level="[UiPath.Core.Activities.LogLevel.Info]" Message="[&quot;Current Path&quot; + in_DocFilePath]" />
-    <p:DocumentReadText DisplayName="Read Text" FilePath="[in_DocFilePath]" sap:VirtualizedContainerService.HintSize="936,93" sap2010:WorkflowViewState.IdRef="DocumentReadText_3" Text="[str_ExtractedText]" />
-    <ui:WriteTextFile File="{x:Null}" DisplayName="Write Text File" FileName="Text.txt" sap:VirtualizedContainerService.HintSize="936,133" sap2010:WorkflowViewState.IdRef="WriteTextFile_1" Text="[str_ExtractedText]" />
-    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="936,52" sap2010:WorkflowViewState.IdRef="CommentOut_3">
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="685,141" sap2010:WorkflowViewState.IdRef="LogMessage_10" Level="[UiPath.Core.Activities.LogLevel.Info]" Message="[&quot;Current Path&quot; + in_DocFilePath]" />
+    <p:DocumentReadText DisplayName="Read Text" FilePath="[in_DocFilePath]" sap:VirtualizedContainerService.HintSize="685,93" sap2010:WorkflowViewState.IdRef="DocumentReadText_3" Text="[str_ExtractedText]" />
+    <ui:WriteTextFile File="{x:Null}" DisplayName="Write Text File" FileName="Text.txt" sap:VirtualizedContainerService.HintSize="685,133" sap2010:WorkflowViewState.IdRef="WriteTextFile_1" Text="[str_ExtractedText]" />
+    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="685,52" sap2010:WorkflowViewState.IdRef="CommentOut_3">
       <ui:CommentOut.Body>
         <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="592,417" sap2010:WorkflowViewState.IdRef="Sequence_25">
           <sap:WorkflowViewStateService.ViewState>
@@ -217,8 +217,8 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:CommentOut>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="936,141" sap2010:WorkflowViewState.IdRef="LogMessage_9" Level="[UiPath.Core.Activities.LogLevel.Warn]" Message="[str_ExtractedText]" />
-    <ui:IfElseIf DisplayName="Else If" sap:VirtualizedContainerService.HintSize="936,4958" sap2010:WorkflowViewState.IdRef="IfElseIf_1">
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="685,141" sap2010:WorkflowViewState.IdRef="LogMessage_9" Level="[UiPath.Core.Activities.LogLevel.Warn]" Message="[str_ExtractedText]" />
+    <ui:IfElseIf DisplayName="Else If" sap:VirtualizedContainerService.HintSize="685,4958" sap2010:WorkflowViewState.IdRef="IfElseIf_1">
       <ui:IfElseIf.ConditionBlocks>
         <sc:BindingList x:TypeArguments="ui:IfElseIfBlock" AllowEdit="True" AllowNew="True" AllowRemove="True" RaiseListChangedEvents="True">
           <ui:IfElseIfBlock BlockType="If" Condition="[in_DocType.Contains(&quot;Confidentiality&quot;)]">
@@ -518,6 +518,7 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:IfElseIf>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="936,141" sap2010:WorkflowViewState.IdRef="LogMessage_2" Message="[out_TradeLicense]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="685,141" sap2010:WorkflowViewState.IdRef="LogMessage_2" Message="[out_TradeLicense]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="685,141" sap2010:WorkflowViewState.IdRef="LogMessage_13" Level="[UiPath.Core.Activities.LogLevel.Warn]" Message="[&quot;TradeLicense Extraction Process Ended&quot;]" />
   </Sequence>
 </Activity>
